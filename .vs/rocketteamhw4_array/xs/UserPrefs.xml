@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{FB08F711-6B68-4071-9EF0-35E854F95402}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.rocketteamhw4__array FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rocketteamhw4_array/Program.cs">
+    <Files>
+      <File FileName="rocketteamhw4_array/Program.cs" Line="4" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.rocketteamhw4__array PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

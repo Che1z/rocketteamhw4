@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "rocketteamhw4_array/1.0.0": {
+        "runtime": {
+          "rocketteamhw4_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rocketteamhw4_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

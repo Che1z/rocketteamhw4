@@ -1,0 +1,15 @@
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/bin/Debug/net7.0/rocketteamhw4_array
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/bin/Debug/net7.0/rocketteamhw4_array.deps.json
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/bin/Debug/net7.0/rocketteamhw4_array.runtimeconfig.json
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/bin/Debug/net7.0/rocketteamhw4_array.dll
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/bin/Debug/net7.0/rocketteamhw4_array.pdb
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.csproj.AssemblyReference.cache
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.AssemblyInfoInputs.cache
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.AssemblyInfo.cs
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.csproj.CoreCompileInputs.cache
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.dll
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/refint/rocketteamhw4_array.dll
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.pdb
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/rocketteamhw4_array.genruntimeconfig.cache
+/Users/shihminhung/Projects/rocketteamhw4_array/rocketteamhw4_array/obj/Debug/net7.0/ref/rocketteamhw4_array.dll
