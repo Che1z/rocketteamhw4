@@ -43,8 +43,8 @@ class Program
         //Console.WriteLine($"最大數值為：{max}");
 
         //Q3: 輸入10個數字至A[]，再輸入x，
-        //    判斷x是否存在於A陣列中，如果存在，輸出所在的註標(索引)值，
-        //    若不存在，則告知不存在。
+        //        判斷x是否存在於A陣列中，如果存在，輸出所在的註標(索引)值，
+        //        若不存在，則告知不存在。
 
         //double[] tenArray = new double[10];
         //for (int i = 0; i < tenArray.Length; i++)
@@ -54,19 +54,19 @@ class Program
         //}
 
         //Console.WriteLine("請輸入檢查數字：");
+        //bool exists = false;
         //double userinput = Convert.ToDouble(Console.ReadLine());
         //for (int j = 0; j < tenArray.Length; j++)
         //{
         //    if (userinput == tenArray[j])
         //    {
+        //        exists = true;
         //        Console.WriteLine($"該數字存在且位於{j}處");
         //        break;
         //    }
-        //    if (userinput != tenArray[tenArray.Length - 1]) {
-        //        Console.WriteLine("該數字不存在");
-        //        break;
-        //    }
-
+        //}
+        //if (exists == false) {
+        //    Console.WriteLine("該數字不存在");
         //}
 
         // Q4:兩個二維矩陣相加。以陣列模擬矩陣，求兩個2乘3的二維矩陣相加之
@@ -132,10 +132,15 @@ class Program
         //    {
         //        for (int z = 0; z < 3; z++)
         //        {
-        //            ArrayC[i, j] += ArrayA[z, i] + ArrayB[z, j];
+        //            ArrayC[i, j] += ArrayA[i, z] * ArrayB[z, j];
         //        }
         //    }
         //}
+
+        //foreach (int ele in ArrayC) {
+        //    Console.WriteLine(ele);
+        //}
+
 
         //Q: 寫一程式，將10個數字讀入A陣列，然後逐一檢查此陣列，
         //如A[i] > 5，則令A[i] = A[i] - 5，否則A[i] = A[i] + 5。
@@ -253,6 +258,7 @@ class Program
         //        arrayA[i, j] = Convert.ToInt32(Console.ReadLine());
         //    }
         //}
+
         //// 每列最小值
         //for (int i = 0; i < arrayA.GetLength(0); i++)
         //{
@@ -260,22 +266,24 @@ class Program
 
         //    for (int j = 0; j < arrayA.GetLength(1); j++)
         //    {
-        //        if (arrayA[i,j] < min) {
-        //            min = arrayA[i, j];
-        //        }
-        //    }
-        //    Console.WriteLine($"第{i+1}列的最小值{min}");
-        //}
-        //// 每行最小值
-        //for (int i = 0; i < arrayA.GetLength(0); i++)
-        //{
-        //    int min = arrayA[0, i];
-
-        //    for (int j = 0; j < arrayA.GetLength(1); j++)
-        //    {
         //        if (arrayA[i, j] < min)
         //        {
         //            min = arrayA[i, j];
+        //        }
+        //    }
+        //    Console.WriteLine($"第{i + 1}列的最小值{min}");
+        //}
+
+        //// 每行最小值
+        //for (int i = 0; i < arrayA.GetLength(1); i++)
+        //{
+        //    int min = arrayA[0, i];
+
+        //    for (int j = 0; j < arrayA.GetLength(0); j++)
+        //    {
+        //        if (arrayA[j, i] < min)
+        //        {
+        //            min = arrayA[j, i];
         //        }
         //    }
         //    Console.WriteLine($"第{i + 1}行的最小值{min}");
@@ -345,6 +353,8 @@ class Program
         //else {
         //    Console.WriteLine($"最大值為arrayB的{arrayBMax}");
         //}
+
+
     }
 
 }
